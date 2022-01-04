@@ -7,6 +7,7 @@
 - [Jenna Franco](https://github.com/myinnernerd)
 - [VIOLET2F](https://github.com/lou320)
 - [Kushagra sharma](https://github.com/C-Y-P-H-E-R)
+- [Rehan Saiyad](https://github.com/north110)
 - [Vikash Kumar](https://github.com/Codefreak69)
 - [Kartik Negi](https://github.com/kartiknegi23)
 - [Taeyoung Jung](https://github.com/taeyoung24) :cat2:
